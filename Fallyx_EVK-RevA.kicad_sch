@@ -1,0 +1,163 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c9ecf77f-e2c2-430e-a6fe-72307adaa202")
+	(paper "A4")
+	(lib_symbols)
+	(text "STM32"
+		(exclude_from_sim no)
+		(at 234.696 23.622 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "a2d8a566-55c9-411b-89f5-5c555e5eb3e8")
+	)
+	(text "IMU SENSOR"
+		(exclude_from_sim no)
+		(at 153.162 23.368 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "be8a1f0a-2bfb-446b-bb99-29cbee447678")
+	)
+	(text "PRESSURE SENSOR"
+		(exclude_from_sim no)
+		(at 70.612 23.622 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "cb689531-bd34-41f0-883d-727b42e81440")
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 63.5 50.8)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8bf96942-5886-451e-ba97-84ff16f0a110")
+		(property "Sheetname" "Fallyx_EVK_2"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fallyx_EVK_2.kicad_sch"
+			(at 25.4 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Fallyx_EVK-RevA"
+				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 25.4)
+		(size 63.5 50.8)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dc314bd8-8aae-470d-8674-e1d78c817eb0")
+		(property "Sheetname" "Fallyx_EVK_4"
+			(at 177.8 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fallyx_EVK_4.kicad_sch"
+			(at 177.8 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Fallyx_EVK-RevA"
+				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 25.4)
+		(size 63.5 50.8)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "efa7fa42-336a-4c4b-a853-30b1840ce713")
+		(property "Sheetname" "Fallyx_EVK_3"
+			(at 101.6 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Fallyx_EVK_3.kicad_sch"
+			(at 101.6 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Fallyx_EVK-RevA"
+				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
