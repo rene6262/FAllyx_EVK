@@ -2315,72 +2315,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V8")
-		(at 227.33 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4acfaaa0-80d8-454c-8d6f-a26b42e4942b")
-		(property "Reference" "#PWR019"
-			(at 227.33 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "V_IN"
-			(at 227.33 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 227.33 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b435081f-7901-49ce-af14-85906d944a0a")
-		)
-		(instances
-			(project "Fallyx_EVK-RevA"
-				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202/8bf96942-5886-451e-ba97-84ff16f0a110"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 146.05 53.34 0)
 		(unit 1)
@@ -2843,6 +2777,72 @@
 			(project "Fallyx_EVK-RevA"
 				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202/8bf96942-5886-451e-ba97-84ff16f0a110"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V8")
+		(at 227.33 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f56404bc-fcba-4954-b7de-c65b6373adf4")
+		(property "Reference" "#PWR019"
+			(at 227.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "1V8"
+			(at 227.33 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 227.33 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9195885-f294-4595-803e-f45dff23ebfe")
+		)
+		(instances
+			(project "Fallyx_EVK-RevA"
+				(path "/c9ecf77f-e2c2-430e-a6fe-72307adaa202/8bf96942-5886-451e-ba97-84ff16f0a110"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)

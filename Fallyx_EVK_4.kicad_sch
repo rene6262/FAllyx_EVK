@@ -6108,6 +6108,29 @@
 			)
 		)
 	)
+	(global_label "PC13"
+		(shape input)
+		(at 133.35 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 60 135 1)
+			)
+			(justify left)
+		)
+		(uuid "56e90bdc-55f1-4522-a090-7f4db87f48e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 141.2942 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "I2C1_SCL"
 		(shape input)
 		(at 133.35 106.68 0)
