@@ -1,4 +1,4 @@
-24459528265355426
+24476913331044616
 4259-63
 SC-70-6
 
@@ -48,6 +48,20 @@ Integrated Circuit
 0
 6
 6
+BGM111A256
+BGM111A256V21R
+BGM111A256V21R-2
+Integrated Circuit
+0
+31
+31
+BM70BLE01FC2
+BM70BLE01FC2_MCH
+
+BM70BLE01FC2-0B04AA 
+0
+30
+30
 BMI270
 XDCR_BMI270
 
@@ -87163,6 +87177,13 @@ Potentiometer vertical vishay
 0
 3
 3
+RB521S30T1G
+DIOM168X70N
+
+
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -88381,6 +88402,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RN4871
+RN4871_MCH
+
+RN4871-I/RM140 
+0
+16
+16
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -90649,6 +90677,27 @@ SAMTEC_SFMH-110-02-L-D-WT-TR
 0
 22
 22
+STM32L431CBT6
+LQFP-48
+
+STM32L431CBT6 
+0
+48
+48
+STM32L431CBT6
+LQFP-48-L
+
+STM32L431CBT6 
+0
+48
+48
+STM32L431CBT6
+LQFP-48-M
+
+STM32L431CBT6 
+0
+48
+48
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -97985,6 +98034,13 @@ igbt diode module
 0
 25
 25
+U.FL-R-SMT-1_80_
+HIROSE_U.FL-R-SMT-1_80_
+
+
+0
+3
+3
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -98766,6 +98822,20 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+WE-CBF_0402
+WE-CBF_0402_W1.5
+<b>WE-CBF SMT EMI Suppression Ferrite Bead</b><br><br>Size: </b>0402, SMT, 2pins<br>L X W X H X FI = 1mm X 0.5mm X 0.5mm X 0.25mm
+
+0
+2
+2
+WE-CBF_0402
+WE-CBF_0402_W2.2
+<b>WE-CBF SMT EMI Suppression Ferrite Bead</b><br><br>Size: </b>0402, SMT, 2pins<br>L X W X H X FI = 1mm X 0.5mm X 0.5mm X 0.25mm
+
 0
 2
 2

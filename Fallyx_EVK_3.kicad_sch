@@ -2415,6 +2415,17 @@
 		)
 		(uuid "8a8ec131-1fac-41b1-a631-213084c380b9")
 	)
+	(polyline
+		(pts
+			(xy 25.4 127) (xy 50.8 152.4)
+		)
+		(stroke
+			(width 1.27)
+			(type default)
+			(color 255 0 17 1)
+		)
+		(uuid "97f3f71c-675b-4846-8a7d-b776a1091aa7")
+	)
 	(wire
 		(pts
 			(xy 83.82 48.26) (xy 86.36 48.26)
