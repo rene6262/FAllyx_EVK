@@ -7308,6 +7308,17 @@
 		)
 		(uuid be120fa5-4ff0-4d7d-9a34-7356d7884f05)
 	)
+	(text "Z0 = 50 Ohm.\n0.18mm Trace @ 0.1h dielectric"
+		(exclude_from_sim no)
+		(at 249.936 151.892 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "037d4b32-988b-42b0-bf50-b26a136ddb8d")
+	)
 	(text "PIN HEADER"
 		(exclude_from_sim no)
 		(at 73.914 146.304 0)

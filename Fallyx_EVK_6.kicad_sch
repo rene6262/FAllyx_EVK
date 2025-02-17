@@ -4046,7 +4046,7 @@
 		)
 		(uuid "a73fa1bb-6361-4bf7-b253-9a330f513558")
 	)
-	(text "3.125 = (R2+R3)/R3\nR3 = 318.75"
+	(text "3.125 = (R2+R3)/R3\nR3 = 160\nR2 = 330"
 		(exclude_from_sim no)
 		(at 238.506 150.114 0)
 		(effects
@@ -4963,7 +4963,7 @@
 				)
 			)
 		)
-		(property "Value" "150k"
+		(property "Value" "160k"
 			(at 251.46 131.826 0)
 			(effects
 				(font
@@ -7442,7 +7442,7 @@
 				)
 			)
 		)
-		(property "Value" "320k"
+		(property "Value" "330k"
 			(at 251.46 121.666 0)
 			(effects
 				(font
